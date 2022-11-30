@@ -18,7 +18,7 @@ const message = {
     to: " whom you want to send",
     subject: "Sending email ",
     text: "hello from nodejs",
-    html: {path:"send.html"} or html:"<h1>Hii</h1>"
+    html: {path:"send.html"} 
 }
 
 transporter.sendMail(message, function (err, info) {
