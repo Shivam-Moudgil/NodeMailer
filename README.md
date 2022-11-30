@@ -1,2 +1,2 @@
 # NodeMailer
-biler plate to send email via nodejs
+boiler plate to send email via nodejs
